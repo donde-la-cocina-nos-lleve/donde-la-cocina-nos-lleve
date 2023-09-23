@@ -4,7 +4,7 @@ thumbnail: /assets/images/00-b.jpg
 redirect_from: /2019/12/tronco-de-navidad
 title: SOLOMILLO DE CERDO WELLINGTON CON SALSA DE PEDRO XIMÉNEZ
 description: Un plato para una ocasión especial, sencillo y barato.
-date: 2019-12-15T11:07:00.000-07:00
+date: 2023-09-23T09:33:39.839Z
 categories:
   - Carnes
   - Pan y masas
@@ -43,8 +43,6 @@ P﻿icamos lo más finamente posible la cebolla, los ajos y los champiñones. Si
 
 ![](/assets/images/02-b.jpg)
 
-
-
 ![](/assets/images/03-b.jpg)
 
 ### 3
@@ -65,8 +63,4 @@ Pincelamos con el huevo batido y llevamos al horno que habremos calentado previa
 
 M﻿ientras tenemos el solomillo en el horno vamos preparando la salsa. Para ello, picamos la cebolla y el ajo y los hacemos en una sartén con un poco de aceite y sal a fuego medio hasta que empiecen a dorarse. Añadimos el Pedro Ximénez y subimos el fuego para que se evapore el alcohol. Añadimos el caldo y la maizena, dejamos hacer unos minutos y trituramos. Volvemos a poner al fuego y ajustamos de sal y pimienta.
 
-
-
 *S﻿ervimos el solomillo acompañado de la salsa en salsera aparte.*
-
-![](/assets/images/00-b.jpg)
